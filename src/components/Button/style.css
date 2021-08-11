@@ -1,0 +1,13 @@
+.get {
+  padding: 1rem 4.5rem;
+  border-radius: 2rem;
+  font-size: 12px;
+  color: var(--VeryPaleBlue);
+  border: none !important;
+  background: var(--Pink) !important;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  opacity: 0.8;
+}

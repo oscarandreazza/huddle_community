@@ -1,0 +1,33 @@
+.wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.wrapper2 {
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: -25rem;
+  width: 90%;
+}
+
+.pre-footer {
+  margin-top: 12rem;
+  background-image: url("./assets/bg-footer-top-desktop.svg");
+  background-size: cover;
+  height: 10rem;
+}
+
+.footer-background {
+  background: var(--VeryDarkCyan);
+  height: 30rem;
+}
+
+@media (max-width: 800px) {
+  .pre-footer {
+    background-image: url("./assets/bg-footer-top-mobile.svg");
+  }
+  .wrapper2 {
+    margin-top: -35rem;
+  }
+}

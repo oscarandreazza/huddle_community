@@ -1,0 +1,36 @@
+.style-ft {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.sub-camp {
+  margin-top: 1rem;
+  margin-right: 2rem;
+  border-style: none !important;
+  border-radius: 0.5rem;
+  height: 3rem;
+  width: 20rem;
+  padding: 1rem;
+}
+
+.sub-btn {
+  margin-top: 1rem;
+  border-radius: 0.5rem;
+  border-style: none !important;
+  background: var(--Pink);
+  padding: 0.8rem 2.5rem;
+  color: #ffffff;
+  font-size: 0.8rem;
+}
+
+span {
+  margin-left: 1rem;
+}
+
+i {
+  color: #ffffff;
+}
+
+i:hover {
+  cursor: pointer;
+}

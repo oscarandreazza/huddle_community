@@ -1,0 +1,20 @@
+.logo {
+  width: 11rem;
+}
+
+.try {
+  height: 34px;
+  width: 140px;
+  border-radius: 2rem;
+  font-size: 12px;
+  color: var(--Pink);
+  border-style: solid !important;
+  border-color: var(--Pink);
+  background: white;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
+}
+
+.try:hover {
+  background: var(--Pink);
+  color: white;
+}

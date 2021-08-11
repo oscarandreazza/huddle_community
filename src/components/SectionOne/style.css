@@ -1,0 +1,17 @@
+.start {
+  max-width: 1000px;
+  margin: 10rem auto;
+}
+
+.screen {
+  max-width: 96%;
+}
+
+.info-number {
+  font-size: 4rem;
+}
+
+.info {
+  font-weight: 500;
+  opacity: 0.6;
+}
