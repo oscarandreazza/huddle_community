@@ -14,8 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 Desktop Design:
-img src="/desktop-design.jpg" alt="designDesktop"/>
+
+<img src="/desktop-design.jpg" alt="designDesktop"/>
 
 #####################################################
 Mobile Design:
-img src="/mobile-design.jpg" alt="designMobile"/>
+<img src="/mobile-design.jpg" alt="designMobile"/>
